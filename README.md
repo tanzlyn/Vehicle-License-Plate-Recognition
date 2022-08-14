@@ -3,7 +3,8 @@ This is an optimized operation code
 
 这是我的第一个guthub代码
 
-/这段代码是由一个简单的加减乘除代码不断优化得到的
+这段代码是由一个简单的加减乘除代码不断优化得到的
+
 
 代码优化：
 
@@ -15,11 +16,13 @@ This is an optimized operation code
 
 4.低耦合高内聚（高级优化）
 
+
 解耦的两个核心意思：
 
 1要有一个基本约束
 
 2具体实现交给每个子类
+
 
 怎么实现低耦合？
 
